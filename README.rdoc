@@ -1,0 +1,9 @@
+== Tasks we need to complete
+    1.User interface 
+    2.need to implement ADMin moudle
+    3.Need to remove sign_up from front-end
+    4.SMTP
+    5.sphinx CONFIG / setup
+    6.load with test data / run test cases
+    7.complete UI
+    8.Deploy IT
