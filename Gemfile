@@ -3,9 +3,6 @@ source 'https://rubygems.org'
 gem 'rails', '3.2.16'
 
 
-# #adminstration
-# gem 'activeadmin'
-
 gem 'social_stream'
 #gem 'rails_admin'
 #user interface
