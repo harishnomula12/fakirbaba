@@ -1,5 +1,5 @@
 == Tasks we need to complete
-    1.User interface 
+    1.User interface / Latest Mock-ups
     2.need to implement ADMin moudle
     3.Need to remove sign_up from front-end
     4.SMTP
